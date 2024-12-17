@@ -1,18 +1,11 @@
 ---
-layout: page
+layout: archive
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Hello! I'm Kate Lopresti
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Welcome to my site about my work as a skilled technical communicator dedicated to creating clear, reusable, and high-quality documentation.
+I enjoy refining documentation workflows, configuring publishing pipelines, and mentoring others in DITA-XML best practices. And I'm passionate about leveraging tools like Oxygen XML Editor, DITA-OT, and CI/CD systems to enhance documentation quality and efficiency.
+This site showcases my experience with both hands-on content creation and strategic content management at an enterprise level.
