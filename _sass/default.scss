@@ -3,11 +3,12 @@ body {
 }
 
 a {
-    color: #f09f00
+    color: #f09f00;
+    text-decoration: underline;    
 }
 
 a:visited {
-    color: #da6900
+    color: #f3c300
 }
 
 h3,
@@ -22,7 +23,7 @@ h3.archive__subtitle {
 
 h1,
 h2 {
-    color: #252C3F;
+    color: #24364c;
     font-family: "Playwrite+MX+Guides";
     font-weight: 700;
 }
