@@ -1,25 +1,27 @@
 body {
-    color: black;
+    color: 103966;
+    background-color: 3fffceb;
 }
 
 a {
     color: #f09f00;
+}
+
+a:hover {
     text-decoration: underline;    
 }
 
 a:visited {
-    color: #f3c300
+    color: #f09f00;
 }
 
 h3,
 h3.archive__subtitle {
     clear: both;
-    color: #103966;
+    color: #24364c;
     font-family: "Playwrite+MX+Guides";
     font-size: 1.35em;
 }
-
-
 
 h1,
 h2 {
