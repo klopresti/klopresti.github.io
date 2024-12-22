@@ -1,32 +1,29 @@
 body {
-    color: 103966;
-    background-color: 3fffceb;
+    color: black;
 }
 
 a {
-    color: #f09f00;
-}
-
-a:hover {
-    text-decoration: underline;    
+    color: #f09f00
 }
 
 a:visited {
-    color: #f09f00;
+    color: #da6900
 }
 
 h3,
 h3.archive__subtitle {
     clear: both;
     color: #103966;
-    font-family: "Montserrat", serif;
+    font-family: "Waiting for the Sunrise";
     font-size: 1.35em;
 }
 
+
+
 h1,
 h2 {
-    color: #103966;
-    font-family: "Montserrat", serif;
+    color: #00a8db;
+    font-family: "Rubik";
     font-weight: 700;
 }
 
@@ -35,7 +32,7 @@ p,
 .archive__item-title,
 a,
 body {
-    font-family: "Roboto";
+    font-family: "Work Sans";
 }
 
 #main {
