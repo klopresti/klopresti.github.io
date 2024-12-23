@@ -1,7 +1,7 @@
 ---
-layout: categories_mywork
+layout: archive
 title: My Work
 author_profile: true
-author: Leigh Stewardson
+author: Kate Lopresti
 ---
 My career spans...

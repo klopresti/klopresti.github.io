@@ -1,8 +1,8 @@
 ---
-layout: categories_article
+layout: archive
 title: My Writing
 author_profile: true
-author: Leigh Stewardson
+author: Kate Lopresti
 ---
 
 My writing examples inlude...
