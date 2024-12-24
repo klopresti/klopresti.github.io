@@ -1,0 +1,11 @@
+Kate Lopresti:
+  name        : "Kate Lopresti"
+  bio         : "Let's talk about docs! Reach out via the links below."
+  avatar      : "assets/images/hue-d_icon.png"
+  links:
+    - label: "Email"
+      icon: "fa fa-envelope"
+      url: "mailto:kate.lopresti@protonmail.com"
+    - label: "LinkedIn"
+      icon: "fa fa-linkedin"
+      url: "https://www.linkedin.com/in/kate-lopresti/"

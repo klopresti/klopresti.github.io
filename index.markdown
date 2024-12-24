@@ -3,7 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-author_profile: true
 author: Kate Lopresti
+author_profile: true
 ---
-I am ...
+![me](/assets/images/avatar.png){: .avatar}
+# Hi there
+I am ... 
+
+[My Work](/mywork)
+
+
+
