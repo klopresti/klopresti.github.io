@@ -6,7 +6,7 @@ layout: home
 author: Kate Lopresti
 author_profile: true
 ---
-![me](/assets/images/avatar.png){: .avatar}
+
 # Hi there
 I am ... 
 

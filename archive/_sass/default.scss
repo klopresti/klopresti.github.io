@@ -26,6 +26,10 @@ h2 {
     font-family: "Rubik";
     font-weight: 700;
 }
+h4 {
+    font-size: 1em;
+    color: #103966;
+}
 
 p,
 .sidebar p,
@@ -37,4 +41,26 @@ body {
 
 #main {
     position: relative;
+}
+@media (min-width: 80em) {
+    #main {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 80em) {
+    .sidebar {
+        width: calc(400px - 1em);
+    }
+}
+
+@media (min-width: 80em) {
+    .archive {
+        width: calc(100% - 400px);
+        padding-right: 200px;
+    }
+}
+.float-left {
+    float: left;
+    margin-right: 2em;
 }

@@ -1,7 +1,7 @@
 Kate Lopresti:
   name        : "Kate Lopresti"
   bio         : "Let's talk about docs! Reach out via the links below."
-  avatar      : "assets/images/hue-d_icon.png"
+  avatar      : "assets/images/avatar.png"
   links:
     - label: "Email"
       icon: "fa fa-envelope"

@@ -1,8 +1,8 @@
 ---
 title: My Writing
 layout: archive
-author_profile: true
 author: Kate Lopresti
+author_profile: true
 ---
 
 My writing examples include...

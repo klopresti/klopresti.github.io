@@ -1,8 +1,8 @@
 ---
 title: My Work
-layout: archive
-author_profile: true
+layout: categories_work
 author: Kate Lopresti
+author_profile: true
 ---
 
 My career spans...
