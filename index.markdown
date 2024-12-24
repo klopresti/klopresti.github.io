@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-author_profile: tru
+author_profile: true
 author: Kate Lopresti
 ---
 I am ...
