@@ -7,7 +7,7 @@ author: Kate Lopresti
 author_profile: true
 ---
 
-# Hello! I'm Kate Lopresti
+## Hello! I'm Kate Lopresti
 
 I am a skilled technical communicator dedicated to creating clear, reusable, and high-quality documentation. This site showcases my experience with both hands-on content creation and enterprise level content management.
 
