@@ -1,31 +1,17 @@
 ---
-title: Writing Samples 
-layout: categories_work
+title: Projects 
+layout: archive
 author: Kate Lopresti
 author_profile: true
 ---
 
-Below are examples of my technical writing work. I've created and edited customer-facing and internal documentation for multiple audiences, including end users, engineers, and writing colleagues.
+My GitHub profile showcases projects in structured content management and using the DITA Open Toolkit to process DITA content and convert it to other formats. Here's an overview of some notable repositories:
 
-## [Introduction to Topic-Based Authoring (PDF)](./assets/pdf/lopresti_topic-based-authoring_slides.pdf)
+## [com.company2.4.4.pdf](https://github.com/klopresti/com.company2.4.4.pdf) 
+A PDF plugin designed for use with DITA Open Toolkit version 2.4.4. Using XSL-FO (Extensible Stylesheet Language Formatting Objects), I adapted the layout and design of the PDF to match an organization's branding guidelines.
 
-Slides presented to subject matter experts moving from MS Word to a content management system. Used to introduce structured content concepts such as topics, maps, reuse, and conditions.
+schematron.library
+This repository includes Schematron rules used to validate patterns in DITA content. It underscores your commitment to maintaining content quality and consistency through automated validation processes.
 
-## [Installing Bolt (PDF)](/assets/pdf/lopresti_bolt_1_2_0_puppet.pdf)
-
-Installation instructions for a product that runs on multiple platforms: Windows, macOS, Linux. Created in collaboration with engineers who provided code commands. Separated content by operating system and installation method to give readers a shortcut to the information they need.
-
-## [Source Control System Procedures (PDF)](/assets/pdf/lopresti_authoring_publishing_svn_harmonic.pdf)
-
-A chapter from a Technical Publications team's *Authoring and Publishing Guide* that documented best practices for a version control system. The team had recently migrated from a desktop publishing and directory storage system to structured authoring and a code repository. The guide standardized tasks and helped the team work consistently across product lines and documentation projects. 
-
-## [Release Notes (PDF)](assets/pdf/lopresti_rn_harmonic.pdf)
-
-Software release notes generated with JIRA issue tracking and Confluence collaboration software. This work required editing team contributions and verifying that all new features, fixes, and any known issues were in the document.
-
-## [Request For Proposal (PDF)](assets/pdf/lopresti_responsive_webhelp_harmonic.pdf)
-
-Broad requirements for DITA-to-WebHelp development project. This document was used to reach out to vendors asking them to scope the project and propose a solution.
-
-## [Constant Rider (zine)](https://microcosmpublishing.com/catalog/books/1041/)
-A self-published work that captures the adventures of riding Portland’s public transit system.
+klopresti.github.io
+A personal GitHub Pages site, likely showcasing your work, portfolio, or providing additional resources related to technical communication and content management.

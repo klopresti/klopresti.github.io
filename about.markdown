@@ -8,4 +8,4 @@ permalink: /about/
 
 ## My Skills
 
-{% include technicalskills.md %}
+<!--- {% include technicalskills.md %} -->
