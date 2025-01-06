@@ -2,11 +2,11 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "My Projects"
-    url: "/myprojects"
-  - title: "My Writing"
+  - title: "Projects"
+    url: "/mywork"
+  - title: "Writing"
     url: "/writing"  
-  - title: "About Me"
+  - title: "About"
     url: "/about"
 
   

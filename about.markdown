@@ -2,6 +2,8 @@
 layout: archive
 title: About
 permalink: /about/
+author: Kate Lopresti
+author_profile: true
 ---
 I’m a Portland-based technical communications professional with a passion for creating clear, user-friendly documentation. With years of experience in managing and delivering technical content, I thrive when I'm helping users understand and navigate complex systems. Whether I’m mentoring teams on DITA XML best practices or streamlining content workflows, I bring a thoughtful, collaborative approach to every challenge.
 
