@@ -7,7 +7,7 @@ author_profile: true
 
 My GitHub profile showcases projects in structured content management and using the DITA Open Toolkit to process DITA content and convert it to other formats. Here are few highlights:
 
-## [PDF plugin com.company.pdf](https://github.com/klopresti/com.company2.4.4.pdf) 
+## [plugin com.company.pdf](https://github.com/klopresti/com.company2.4.4.pdf) 
 Transformation files used to generate PDF output that adhere to marketing brand guidelines. The technical publications team used the plugin to produce deliverables that were formatted consistently across all products and content types.
 
 ![DITA OT PDF plugin](assets/images/plugin_out_of_box.png)
