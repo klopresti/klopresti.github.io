@@ -7,6 +7,10 @@ author_profile: true
 
 Below are examples of my technical writing work. I've created and edited customer-facing and internal documentation for multiple audiences, including end users, engineers, and writing colleagues.
 
+## [Create, Review and Publish Your First Publication (PDF)](./assets/pdf/lopresti_your_first_publication.pdf)
+
+A page from a CCMS Knowledge Base for an audience getting up to speed on a new component content management system.
+
 ## [Introduction to Topic-Based Authoring (PDF)](./assets/pdf/lopresti_topic-based-authoring_slides.pdf)
 
 Slides presented to subject matter experts moving from MS Word to a content management system. Used to introduce structured content concepts such as topics, maps, reuse, and conditions.
